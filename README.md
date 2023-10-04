@@ -8,13 +8,16 @@ This project, "FX Derivative Analyzer," is a user-friendly interface for perform
    ```bash
    git clone https://github.com/your-username/fx-option-pricer.git
 2. Navigate to the project directory:
+   ```bash
    cd fx-option-pricer
 
-3. Install the required dependencies using pip:
+4. Install the required dependencies using pip:
+   ```python
    pip install -r requirements.txt
 
-4. To run the application, open a command prompt, navigate to the project folder (e.g., "C:\Users\my_name\rest_of_path\fx-option-pricer"), and enter the following command:
-  streamlit run WebPricer.py
+6. To run the application, open a command prompt, navigate to the project folder (e.g., "C:\Users\my_name\rest_of_path\fx-option-pricer"), and enter the following command:
+   ```python
+   streamlit run WebPricer.py
 
 ## Usage
 Instructions for using the application are available within the user interface.

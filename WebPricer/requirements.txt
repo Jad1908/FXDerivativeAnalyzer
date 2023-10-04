@@ -1,0 +1,9 @@
+streamlit
+PIL
+pandas
+math
+scipy
+numpy
+matplotlib
+seaborn
+tqdm

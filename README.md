@@ -16,10 +16,10 @@ This project, "FX Derivative Analyzer," is a user-friendly interface for perform
 4. To run the application, open a command prompt, navigate to the project folder (e.g., "C:\Users\my_name\rest_of_path\fx-option-pricer"), and enter the following command:
   streamlit run WebPricer.py
 
-Usage
+## Usage
 Instructions for using the application are available within the user interface.
 
-FAQ
+## FAQ
 Q: Can I use my own data with the application?
 A: Yes, you can replace the data used in the application with your own, but you must ensure that the Excel (xlsx) file you use has the same overall attributes, including column names and table size, as the one provided. If your data file differs significantly, you may need to make modifications to the code to accommodate the changes.
 
